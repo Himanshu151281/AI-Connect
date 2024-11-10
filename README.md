@@ -24,10 +24,5 @@ Styling is accomplished with Tailwind CSS, ensuring a clean and modern aesthetic
 Provides an option to generate a summary of the meeting once it concludes.
 <b>Note: While this feature is successfully implemented, it currently relies on Google Cloud credits, which may limit its availability.</b>
   
-<h2>5. Responsive Design (Work in Progress)</h2>
-Ongoing development to enhance the mobile view for better accessibility and user experience on various devices.
-Technology Stack
-Frontend: React, Tailwind CSS
-Backend: Express.js
-Real-Time Communication: WebRTC
-AI Integration: Google Gemini API# AI-Connect
+<h2>5. Responsive Design</h2>
+Our website/app now adapts seamlessly to different screen sizes and devices, providing an optimal user experience. This upgrade ensures that our users can access our services and features effortlessly, anywhere and anytime!
